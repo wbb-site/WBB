@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package name="pl.language.wbb">
   <packageinformation>
-    <packagename>Polish language [ver. 1.0.1] for Burning Board 3.1.6</packagename>
-    <packagedescription>Polish language [ver. 1.0.1] for Burning Board 3.1.6</packagedescription>
+    <packagename>Polish language for Burning Board 3.1.7</packagename>
+    <packagedescription>Polish language for Burning Board 3.1.7</packagedescription>
     <version>1.0.1</version>
-    <date>2012-04-27</date>
+    <date>2012-05-12</date>
 
    
     <plugin>com.woltlab.wbb</plugin>
@@ -17,8 +17,8 @@
     <authorurl>http://wbb-site.pl</authorurl>
   </authorinformation>
   <requiredpackages>
-    <requiredpackage minversion="3.1.6">com.woltlab.wbb</requiredpackage>
-    <requiredpackage minversion="1.0.6">com.woltlab.wcf</requiredpackage>
+    <requiredpackage minversion="3.1.7">com.woltlab.wbb</requiredpackage>
+    <requiredpackage minversion="1.1.8">com.woltlab.wcf</requiredpackage>
   </requiredpackages>
 
   <optionalpackages />
