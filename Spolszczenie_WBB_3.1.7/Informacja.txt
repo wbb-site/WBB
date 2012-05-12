@@ -1,1 +1,4 @@
-Spolszczenie wykonane przez www.WBB-site.pl - Polski Support WoltLab Burning Board
+1. Zabrania sie rozpowszechniania/reuploadowania spolszczenia bez zgody autorow (WBB-site.pl) (wyjatek- bezposrednie
+podanie linku do pobrania)
+2. Kategorycznie zabrania sie edycji wszelkich plikow spolszczena. W sytuacji gdy znalezles blad- zapraszamy na 
+nasz support)
