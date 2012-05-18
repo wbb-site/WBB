@@ -4670,7 +4670,7 @@ Team {PAGE_TITLE}]]></item>
 	<category name="wcf.tagging">
 		<item name="wcf.tagging.by"><![CDATA[Przez]]></item>
 		<item name="wcf.tagging.filter"><![CDATA[Filtruj przez tag{if $tag|isset}: &quot;{$tag}&quot;{/if}]]></item>
-		<item name="wcf.tagging.mostPopular"><![CDATA[Najbardziej popularne tagi ]]></item>
+		<item name="wcf.tagging.mostPopular"><![CDATA[Najpopularniejsze tagi]]></item>
 		<item name="wcf.tagging.overview"><![CDATA[Podgląd]]></item>
 		<item name="wcf.tagging.taggable.all.com.woltlab.wbb.thread"><![CDATA[Wszystkie tematy]]></item>
 		<item name="wcf.tagging.taggable.com.woltlab.wbb.thread"><![CDATA[Tematy]]></item>
