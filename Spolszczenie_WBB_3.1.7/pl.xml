@@ -5080,7 +5080,7 @@ Team {PAGE_TITLE}]]></item>
 		<item name="wcf.user.option.skype.description"><![CDATA[Twoja nazwa Skype]]></item>
 		<item name="wcf.user.option.threadDaysPrune"><![CDATA[Filtr czasu dla tematów]]></item>
 		<item name="wcf.user.option.threadDaysPrune.description"><![CDATA[Określ ile czasu mają być pokazywane tematy w forach.]]></item>
-		<item name="wcf.user.option.threadsPerPage"><![CDATA[Tematy na stronę]]></item>
+		<item name="wcf.user.option.threadsPerPage"><![CDATA[Tematów na stronę]]></item>
 		<item name="wcf.user.option.threadsPerPage.description"><![CDATA[Wpisz liczbę tematów, które mają być wyświetlane na jednej stronie. Jeśli forum zawiera więcej tematów, zostaną one przedstawione na dalszych stronach.]]></item>
 		<item name="wcf.user.option.timezone"><![CDATA[Strefa czasowa]]></item>
 		<item name="wcf.user.option.timezone.description"><![CDATA[]]></item>
