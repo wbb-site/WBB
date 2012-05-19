@@ -316,7 +316,7 @@
 		<item name="wbb.board.posts.removeReports.sure"><![CDATA[Czy na pewno chcesz usunąć zaznaczone raporty? ]]></item>
 		<item name="wbb.board.quickJump.title"><![CDATA[Skocz do:]]></item>
 		<item name="wbb.board.search.query"><![CDATA[Przeszukaj forum]]></item>
-		<item name="wbb.board.sortBy"><![CDATA[Sortuj wg.]]></item>
+		<item name="wbb.board.sortBy"><![CDATA[Sortuj wg]]></item>
 		<item name="wbb.board.sortBy.attachments"><![CDATA[Załączników ]]></item>
 		<item name="wbb.board.sortBy.lastPostTime"><![CDATA[Ostatnich postów]]></item>
 		<item name="wbb.board.sortBy.polls"><![CDATA[Ankiet]]></item>
@@ -1765,7 +1765,7 @@ Your {PAGE_TITLE} Team]]></item>
 		<item name="wcf.acp.option.board_board_list_depth.description"><![CDATA[Określ długość forów na stronie forum.]]></item>
 		<item name="wcf.acp.option.board_default_days_prune"><![CDATA[Filtr czasu]]></item>
 		<item name="wcf.acp.option.board_default_days_prune.description"><![CDATA[Określ czas dla wątków, które mają być wyświetlane.]]></item>
-		<item name="wcf.acp.option.board_default_sort_field"><![CDATA[Sortuj wg.]]></item>
+		<item name="wcf.acp.option.board_default_sort_field"><![CDATA[Sortuj wg]]></item>
 		<item name="wcf.acp.option.board_default_sort_field.description"><![CDATA[Określ kryteria wyszukiwania]]></item>
 		<item name="wcf.acp.option.board_default_sort_order"><![CDATA[Kolejność]]></item>
 		<item name="wcf.acp.option.board_default_sort_order.description"><![CDATA[Określić kolejność wyświetlanych wątków.]]></item>
@@ -2066,7 +2066,7 @@ Your {PAGE_TITLE} Team]]></item>
 Ta opcja nie jest obsługiwana przez wszystkie serwery pocztowe i powinna być wyłączona w przypadku wystąpienia jakichkolwiek problemów.]]></item>
 		<item name="wcf.acp.option.members_list_columns"><![CDATA[Pokaż wybrane kolumny]]></item>
 		<item name="wcf.acp.option.members_list_columns.description"><![CDATA[Proszę wybrać z listy, które kolumny powinny być pokazywane na liście użytkowników!]]></item>
-		<item name="wcf.acp.option.members_list_default_sort_field"><![CDATA[Sortuj wg.]]></item>
+		<item name="wcf.acp.option.members_list_default_sort_field"><![CDATA[Sortuj wg]]></item>
 		<item name="wcf.acp.option.members_list_default_sort_field.description"><![CDATA[Wpisz tutaj jak powinna być posortowana lista.]]></item>
 		<item name="wcf.acp.option.members_list_default_sort_order"><![CDATA[Sortowanie]]></item>
 		<item name="wcf.acp.option.members_list_default_sort_order.description"><![CDATA[Wpisz tu porządek sortowania.]]></item>
@@ -2160,9 +2160,9 @@ Ta opcja nie jest obsługiwana przez wszystkie serwery pocztowe i powinna być w
 		<item name="wcf.acp.option.page_url.description"><![CDATA[Proszę podać adres URL strony (bez ukośnika).]]></item>
 		<item name="wcf.acp.option.page_urls"><![CDATA[Further URLs]]></item>
 		<item name="wcf.acp.option.page_urls.description"><![CDATA[Wprowadź kolejne adresy, które są również skierowane do twojej strony.]]></item>
-		<item name="wcf.acp.option.pm_default_sort_field"><![CDATA[Sortuj wg.]]></item>
+		<item name="wcf.acp.option.pm_default_sort_field"><![CDATA[Sortuj wg]]></item>
 		<item name="wcf.acp.option.pm_default_sort_field.description"><![CDATA[Określ kryteria sortowania prywatnych wiadomości.]]></item>
-		<item name="wcf.acp.option.pm_default_sort_order"><![CDATA[Wg.]]></item>
+		<item name="wcf.acp.option.pm_default_sort_order"><![CDATA[Według]]></item>
 		<item name="wcf.acp.option.pm_default_sort_order.description"><![CDATA[Określić w jakiej kolejności wiadomości są posortowane]]></item>
 		<item name="wcf.acp.option.pm_messages_per_page"><![CDATA[Wiadomości na stronę]]></item>
 		<item name="wcf.acp.option.pm_messages_per_page.description"><![CDATA[Wpisz liczbę prywatnych wiadomości które mają być wyświetlane na stronę.]]></item>
@@ -2778,7 +2778,7 @@ Ta opcja nie jest obsługiwana przez wszystkie serwery pocztowe i powinna być w
 		<item name="wcf.acp.stats.period.end"><![CDATA[Do:]]></item>
 		<item name="wcf.acp.stats.period.start"><![CDATA[Od:]]></item>
 		<item name="wcf.acp.stats.results"><![CDATA[Rezultaty]]></item>
-		<item name="wcf.acp.stats.sortField"><![CDATA[Sortuj wg.]]></item>
+		<item name="wcf.acp.stats.sortField"><![CDATA[Sortuj wg]]></item>
 		<item name="wcf.acp.stats.sortField.count"><![CDATA[Wynik]]></item>
 		<item name="wcf.acp.stats.sortField.date"><![CDATA[Data]]></item>
 		<item name="wcf.acp.stats.type"><![CDATA[Typ statystyk]]></item>
@@ -4540,7 +4540,7 @@ Team {PAGE_TITLE}]]></item>
 		<item name="wcf.pm.search.folders.all"><![CDATA[Szukaj we wszystkich folderach]]></item>
 		<item name="wcf.pm.search.query"><![CDATA[Szukaj wiadomości]]></item>
 		<item name="wcf.pm.search.result.sender"><![CDATA[Prywatna wiadomość od: <a href="index.php?page=User&amp;userID={@$item.message->userID}{@SID_ARG_2ND}">{$item.message->username}</a>]]></item>
-		<item name="wcf.pm.sortBy"><![CDATA[Sortuj wg.]]></item>
+		<item name="wcf.pm.sortBy"><![CDATA[Sortuj wg]]></item>
 		<item name="wcf.pm.sortBy.isViewed"><![CDATA[Czytaj]]></item>
 		<item name="wcf.pm.sortBy.isViewedByAll"><![CDATA[Czytaj]]></item>
 		<item name="wcf.pm.sortBy.recipients"><![CDATA[Odbiorcy]]></item>
@@ -4651,7 +4651,7 @@ Team {PAGE_TITLE}]]></item>
 		<item name="wcf.search.results.description"><![CDATA[Search results {#$startIndex}-{#$endIndex} of {#$items}{if $query} for &quot;<strong>{$query}</strong>&quot;{/if}.{if $items == 1000} There are even more results, please redefine your search.{/if}{if $highlight}<br />These search terms are highlighted: <span class="highlight">{$highlight}</span>{/if}]]></item>
 		<item name="wcf.search.results.display"><![CDATA[Wyświetlanie]]></item>
 		<item name="wcf.search.results.location"><![CDATA[found in:]]></item>
-		<item name="wcf.search.sortBy"><![CDATA[Sortuj wg.]]></item>
+		<item name="wcf.search.sortBy"><![CDATA[Sortuj wg]]></item>
 		<item name="wcf.search.sortBy.author"><![CDATA[Autora]]></item>
 		<item name="wcf.search.sortBy.creationDate"><![CDATA[Daty]]></item>
 		<item name="wcf.search.sortBy.relevance"><![CDATA[Sortowania]]></item>
