@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/language.xsd" languagecode="pl">
+	<!-- Modul -->
+	<category name="wcf.acp.option">
+		<item name="wcf.acp.option.module_feedPoster"><![CDATA[Feed Poster]]></item>
+		<item name="wcf.acp.option.module_feedPoster.description"><![CDATA[Aktywuj Feed Poster.]]></item>
+	</category>
+	<!-- Modul -->
+
+	<!-- Groupoptions -->
+	<category name="wcf.acp.group">
+		<item name="wcf.acp.group.option.category.admin.content.feedPoster"><![CDATA[Feed Poster]]></item>
+		<item name="wcf.acp.group.option.category.admin.content.feedPoster.description"><![CDATA[]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.canView"><![CDATA[Widzi posty z Feed Poster]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.canView.description"><![CDATA[Użytkownicy należący do tej grupy widzą wygenerowane posty przez Feed Poster.]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.canAdd"><![CDATA[Może dodawać Feed Poster]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.canAdd.description"><![CDATA[Użytkownicy należący do tej grupy mogą Feed Poster.]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.canEdit"><![CDATA[Może edytować Feed Poster]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.canEdit.description"><![CDATA[Użytkownicy należący do tej grupy mogą edytować Feed Poster.]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.canEnableDisable"><![CDATA[Może włączyć/wyłączyć Feed Posters]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.canEnableDisable.description"><![CDATA[Użytkownicy należący do tej grupy mogą włączyć/wyłączyć Feed Posters.]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.canDelete"><![CDATA[Może usunąć Feed Posters]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.canDelete.description"><![CDATA[Użytkownicy należący do tej grupy mogą usunąć Feed Posters.]]></item>
+
+		<item name="wcf.acp.group.option.category.admin.content.feedPoster.url"><![CDATA[Feed Poster - URL]]></item>
+		<item name="wcf.acp.group.option.category.admin.content.feedPoster.url.description"><![CDATA[]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.url.canView"><![CDATA[Widzi przegląd URL]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.url.canView.description"><![CDATA[Użytkownicy należący do tej grupy widzą przegląd URL.]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.url.canAdd"><![CDATA[Może dodawać URL]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.url.canAdd.description"><![CDATA[Użytkownicy należący do tej grupy mogą dodawać URL.]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.url.canEdit"><![CDATA[Może edytować URL]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.url.canEdit.description"><![CDATA[Użytkownicy należący do tej grupy mogą edytować URL.]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.url.canEnableDisable"><![CDATA[Może włączyć/wyłączyć URL]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.url.canEnableDisable.description"><![CDATA[Użytkownicy należący do tej grupy mogą włączyć/wyłączyć URL]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.url.canDelete"><![CDATA[Może usunąć URL]]></item>
+		<item name="wcf.acp.group.option.admin.content.feedPoster.url.canDelete.description"><![CDATA[Użytkownicy należący do tej grupy mogą usumąć URL.]]></item>
+	</category>
+	<!-- Groupoptions -->
+
+	<!-- ACP Menu -->
+	<category name="wcf.acp.menu">
+		<item name="wcf.acp.menu.link.feedPoster"><![CDATA[Feed Poster]]></item>
+		<item name="wcf.acp.menu.link.feedPoster.list"><![CDATA[Lista Feed Posters]]></item>
+		<item name="wcf.acp.menu.link.feedPoster.add"><![CDATA[Dodaj Feed Poster]]></item>
+		<item name="wcf.acp.menu.link.feedPoster.url.list"><![CDATA[Lista URL]]></item>
+		<item name="wcf.acp.menu.link.feedPoster.url.add"><![CDATA[Dodaj URL]]></item>
+	</category>
+	<!-- ACP Menu -->
+
+	<!-- ACP Feed Poster -->
+	<category name="wbb.acp.feedPoster">
+		<item name="wbb.acp.feedPoster.feedError"><![CDATA[Wystąpił błąd. Proszę sprawdzić poprawność poniższego linku: ]]></item>
+		<item name="wbb.acp.feedPoster.moduleError"><![CDATA[Moduł Feed Poster jest aktywowany.]]></item>
+		<item name="wbb.feedPoster.quote.title"><![CDATA[Wiadomość od &quot;{@$quoteAuthor}&quot;]]></item>
+
+		<item name="wbb.acp.feedPoster.list"><![CDATA[Feed Poster]]></item>
+		<item name="wbb.acp.feedPoster.add"><![CDATA[Dodaj Feed Poster]]></item>
+		<item name="wbb.acp.feedPoster.edit"><![CDATA[Edytuj Feed Poster]]></item>
+		<item name="wbb.acp.feedPoster.list.noItem"><![CDATA[Obecnie nie ma Feed Posters.]]></item>
+		<item name="wbb.acp.feedPoster.list.headline"><![CDATA[W sumie jest {$feedPosters|count} Feed Poster{if $count > 1}s{/if}.]]></item>
+		<item name="wbb.acp.feedPoster.list.id"><![CDATA[ID - Feed Poster]]></item>
+		<item name="wbb.acp.feedPoster.list.name"><![CDATA[Opis]]></item>
+		<item name="wbb.acp.feedPoster.list.board"><![CDATA[Forum]]></item>
+		<item name="wbb.acp.feedPoster.list.user"><![CDATA[Użytkownik]]></item>
+		<item name="wbb.acp.feedPoster.list.language"><![CDATA[Język]]></item>
+		<item name="wbb.acp.feedPoster.list.delete.sure"><![CDATA[Czy na pewno chcesz usunąć &raquo;{@$feedPoster.name}&laquo; ?]]></item>
+		<item name="wbb.acp.feedPoster.list.delete.success"><![CDATA[Feed Poster został pomyślnie usunięty.]]></item>
+		<item name="wbb.acp.feedPoster.list.enable"><![CDATA[Aktywuj]]></item>
+		<item name="wbb.acp.feedPoster.list.disable"><![CDATA[Dezaktywuj]]></item>
+		<item name="wbb.acp.feedPoster.list.edit"><![CDATA[Edytuj Feed Poster]]></item>
+		<item name="wbb.acp.feedPoster.list.delete"><![CDATA[Usuń Feed Poster]]></item>
+
+		<item name="wbb.acp.feedPoster.form.general"><![CDATA[Główne]]></item>
+		<item name="wbb.acp.feedPoster.form.name"><![CDATA[Opis]]></item>
+		<item name="wbb.acp.feedPoster.form.name.description"><![CDATA[Podaj nazwę Feed Poster. Nazwa używana jest tylko do identyfikacji i jest widoczna tylko w ACP.]]></item>
+		<item name="wbb.acp.feedPoster.form.user"><![CDATA[Użytkownik]]></item>
+		<item name="wbb.acp.feedPoster.form.user.description"><![CDATA[Podaj nazwę użytkownika/bota który będzie tworzył tematy.]]></item>
+		<item name="wbb.acp.feedPoster.form.board"><![CDATA[Forum]]></item>
+		<item name="wbb.acp.feedPoster.form.board.description"><![CDATA[Proszę wybrać forum.]]></item>
+		<item name="wbb.acp.feedPoster.form.language"><![CDATA[Język]]></item>
+		<item name="wbb.acp.feedPoster.form.language.description"><![CDATA[Proszę wybrać język w którym będą publikowane tematy. Temat zostanie oznaczony flagą danego kraju.]]></item>
+		<item name="wbb.acp.feedPoster.form.threadLimit"><![CDATA[Liczba wpisów]]></item>
+		<item name="wbb.acp.feedPoster.form.threadLimit.description"><![CDATA[Podaj maksymalną liczbę tematów, która ma być pokazywana.]]></item>
+		<item name="wbb.acp.feedPoster.form.threadOptions"><![CDATA[Opcje tematu]]></item>
+		<item name="wbb.acp.feedPoster.form.threadType.description"><![CDATA[Wybierz typ wyświetlania.]]></item>
+		<item name="wbb.acp.feedPoster.form.threadPrefix.description"><![CDATA[Tutaj możesz określić prefix tematu (np. News).]]></item>
+		<item name="wbb.acp.feedPoster.form.disableThread"><![CDATA[Ukryj temat]]></item>
+		<item name="wbb.acp.feedPoster.form.disableThread.description"><![CDATA[Ten temat przed pokazaniem będzie musiał zostać zatwierdzony przez moderatora.]]></item>
+		<item name="wbb.acp.feedPoster.form.threadCountPosts"><![CDATA[Count contributions]]></item>
+		<item name="wbb.acp.feedPoster.form.threadCountPosts.description"><![CDATA[Select whether the contributions are to be counted. If you e.g. a bot created and select the option, the bot relatively quickly will be the Top Posters.]]></item>
+		<item name="wbb.acp.feedPoster.add.success"><![CDATA[Feed Poster został pomyślnie utworzony. Kliknij <a href="index.php?form=FeedPosterUrlAdd&amp;packageID={@PACKAGE_ID}{@SID_ARG_2ND}">tutaj</a> aby przypisać adres URL.]]></item>
+		<item name="wbb.acp.feedPoster.edit.success"><![CDATA[Feed Poster został pomyślnie zaktualizowany.]]></item>
+		<item name="wbb.acp.feedPoster.form.userNotValid"><![CDATA[The User &raquo;{@$username}&laquo; dont exist.]]></item>
+		<item name="wbb.acp.feedPoster.form.boardNotValid"><![CDATA[The selected Board doesn't exist.]]></item>
+
+		<item name="wbb.acp.feedPoster.url.list"><![CDATA[URL]]></item>
+		<item name="wbb.acp.feedPoster.url.add"><![CDATA[Dodaj URL]]></item>
+		<item name="wbb.acp.feedPoster.url.edit"><![CDATA[Edytuj URL]]></item>
+		<item name="wbb.acp.feedPoster.url.list.noItem"><![CDATA[Currently there are no URLs.]]></item>
+		<item name="wbb.acp.feedPoster.url.list.headline"><![CDATA[There are a total of {@$urls|count} {if $urls|count > 1}URLs{else}URL{/if}.]]></item>
+		<item name="wbb.acp.feedPoster.url.list.id"><![CDATA[URL-ID]]></item>
+		<item name="wbb.acp.feedPoster.url.list.url"><![CDATA[URL]]></item>
+		<item name="wbb.acp.feedPoster.url.list.type"><![CDATA[Feed-Typ]]></item>
+		<item name="wbb.acp.feedPoster.url.list.type.rss"><![CDATA[RSS-Feed]]></item>
+		<item name="wbb.acp.feedPoster.url.list.type.rdf"><![CDATA[RDF-Feed]]></item>
+		<item name="wbb.acp.feedPoster.url.list.type.atom"><![CDATA[Atom-Feed]]></item>
+		<item name="wbb.acp.feedPoster.url.list.name"><![CDATA[Feed Poster]]></item>
+		<item name="wbb.acp.feedPoster.url.list.delete.sure"><![CDATA[Are you shure to delete this URL?]]></item>
+		<item name="wbb.acp.feedPoster.url.list.delete.success"><![CDATA[The URL was deleted successfully.]]></item>
+		<item name="wbb.acp.feedPoster.url.list.edit"><![CDATA[Edit URL]]></item>
+		<item name="wbb.acp.feedPoster.url.list.delete"><![CDATA[Delete URL]]></item>
+
+		<item name="wbb.acp.feedPoster.url.form.general"><![CDATA[General]]></item>
+		<item name="wbb.acp.feedPoster.url.form.url"><![CDATA[URL]]></item>
+		<item name="wbb.acp.feedPoster.url.form.url.description"><![CDATA[Please enter the URL of the RSS Feeds.]]></item>
+		<item name="wbb.acp.feedPoster.url.form.fpID"><![CDATA[Feed Poster]]></item>
+		<item name="wbb.acp.feedPoster.url.form.fpID.description"><![CDATA[Please choose the Feed Poster where the URL will be assignt to.]]></item>
+		<item name="wbb.acp.feedPoster.url.form.searchTags"><![CDATA[Search-Tags]]></item>
+		<item name="wbb.acp.feedPoster.url.form.searchTags.description"><![CDATA[Please enter a Search-Tag. It will be created only topics containung that word. Separate multiple search words with commas.]]></item>
+		<item name="wbb.acp.feedPoster.url.form.noItem"><![CDATA[There are no Feed Poster available. <a href="index.php?form=FeedPosterAdd&amp;packageID={@PACKAGE_ID}{@SID_ARG_2ND}">Add Feed Poster</a>]]></item>
+		<item name="wbb.acp.feedPoster.url.add.success"><![CDATA[The URL was created successfully.]]></item>
+		<item name="wbb.acp.feedPoster.url.edit.success"><![CDATA[The URL was updated successfully.]]></item>
+		<item name="wbb.acp.feedPoster.url.form.alreadyExists"><![CDATA[The Feed Poster is already associated with this URL.]]></item>
+		<item name="wbb.acp.feedPoster.url.form.invalidFeed"><![CDATA[The given Feed isn't valid.]]></item>
+		<item name="wbb.acp.feedPoster.url.form.invalidFeed.extended"><![CDATA[The given Feed looks broken. Continue anyway?]]></item>
+		<item name="wbb.acp.feedPoster.url.form.invalidFeed.add"><![CDATA[Continue]]></item>
+	</category>
+	<!-- ACP Feed Poster -->
+
+	<!-- FeedPoster -->
+	<category name="wbb.feedPoster">
+		<item name="wbb.feedPoster.more"><![CDATA[Source]]></item>
+		<item name="wbb.feedPoster.copyright"><![CDATA[Feed Poster 1.2.3, developed by Simon Dettling]]></item>
+		<item name="wbb.feedPoster.quote.title"><![CDATA[Nachricht von &quot;{$quoteAuthor}&quot;]]></item>
+	</category>
+	<!-- FeedPoster -->
+</language>
