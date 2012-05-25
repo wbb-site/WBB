@@ -3061,8 +3061,8 @@ Ta opcja nie jest obsługiwana przez wszystkie serwery pocztowe i powinna być w
 		<item name="wcf.acp.style.editor.text.general.h2.description"><![CDATA[Set the properties of the page heading. Note: The page heading is displayed below the page-header.]]></item>
 		<item name="wcf.acp.style.editor.text.general.text"><![CDATA[Text]]></item>
 		<item name="wcf.acp.style.editor.text.general.text.description"><![CDATA[Set the properties of text. Note: Avoid the specification of a unit in the field for the line height.]]></item>
-		<item name="wcf.acp.style.editor.text.link"><![CDATA[Links]]></item>
-		<item name="wcf.acp.style.editor.text.link.active"><![CDATA[Active links]]></item>
+		<item name="wcf.acp.style.editor.text.link"><![CDATA[Linki]]></item>
+		<item name="wcf.acp.style.editor.text.link.active"><![CDATA[Aktywne linki]]></item>
 		<item name="wcf.acp.style.editor.text.link.active.description"><![CDATA[Enable this option, if you would like links have to their own colour when clicked.]]></item>
 		<item name="wcf.acp.style.editor.text.link.active.use"><![CDATA[Use active links]]></item>
 		<item name="wcf.acp.style.editor.text.link.description"><![CDATA[Set the look of links here.]]></item>
@@ -4670,7 +4670,7 @@ Team {PAGE_TITLE}]]></item>
 	<category name="wcf.tagging">
 		<item name="wcf.tagging.by"><![CDATA[Przez]]></item>
 		<item name="wcf.tagging.filter"><![CDATA[Filtruj przez tag{if $tag|isset}: &quot;{$tag}&quot;{/if}]]></item>
-		<item name="wcf.tagging.mostPopular"><![CDATA[Najbardziej popularne tagi ]]></item>
+		<item name="wcf.tagging.mostPopular"><![CDATA[Najpopularniejsze tagi]]></item>
 		<item name="wcf.tagging.overview"><![CDATA[Podgląd]]></item>
 		<item name="wcf.tagging.taggable.all.com.woltlab.wbb.thread"><![CDATA[Wszystkie tematy]]></item>
 		<item name="wcf.tagging.taggable.com.woltlab.wbb.thread"><![CDATA[Tematy]]></item>
