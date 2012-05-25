@@ -4,7 +4,7 @@
     <packagename>Polish language for Burning Board 3.1.7</packagename>
     <packagedescription>Polish language for Burning Board 3.1.7</packagedescription>
     <version>1.0.1</version>
-    <date>2012-05-12</date>
+    <date>2012-05-16</date>
 
    
     <plugin>com.woltlab.wbb</plugin>
@@ -17,8 +17,8 @@
     <authorurl>http://wbb-site.pl</authorurl>
   </authorinformation>
   <requiredpackages>
-    <requiredpackage minversion="3.1.7">com.woltlab.wbb</requiredpackage>
-    <requiredpackage minversion="1.1.8">com.woltlab.wcf</requiredpackage>
+    <requiredpackage minversion="3.1.*">com.woltlab.wbb</requiredpackage>
+    <requiredpackage minversion="1.1.*">com.woltlab.wcf</requiredpackage>
   </requiredpackages>
 
   <optionalpackages />
