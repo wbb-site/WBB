@@ -1,1 +1,10 @@
-Licencja na używanie spolszczenie FeedPoster.
+Jak zainstalować spolszczenie do FeedPoster
+
+1. Wypakuj plik pl.xml z archiwum
+2. Wejdź w Panel administracyjny, następnie Style -> Języki -> Dodaj nowy język
+3. Wybierz plik pl.xml i kliknij wyślij.
+
+
+Spolszczenie działa tylko w Burning Board 3.x wzwyż.
+
+///////////////////////////////////////// WBB-SITE.PL - POLSKI SUPPORT BURNING BOARD \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
