@@ -96,8 +96,8 @@
 		<item name="wbb.acp.feedPoster.url.list"><![CDATA[URL]]></item>
 		<item name="wbb.acp.feedPoster.url.add"><![CDATA[Dodaj URL]]></item>
 		<item name="wbb.acp.feedPoster.url.edit"><![CDATA[Edytuj URL]]></item>
-		<item name="wbb.acp.feedPoster.url.list.noItem"><![CDATA[Currently there are no URLs.]]></item>
-		<item name="wbb.acp.feedPoster.url.list.headline"><![CDATA[There are a total of {@$urls|count} {if $urls|count > 1}URLs{else}URL{/if}.]]></item>
+		<item name="wbb.acp.feedPoster.url.list.noItem"><![CDATA[Obecnie brak adresów URL.]]></item>
+		<item name="wbb.acp.feedPoster.url.list.headline"><![CDATA[W sumie {@$urls|count} {if $urls|count > 1} adresów URL{else} adres URL{/if}.]]></item>
 		<item name="wbb.acp.feedPoster.url.list.id"><![CDATA[URL-ID]]></item>
 		<item name="wbb.acp.feedPoster.url.list.url"><![CDATA[URL]]></item>
 		<item name="wbb.acp.feedPoster.url.list.type"><![CDATA[Feed-Typ]]></item>
@@ -105,12 +105,12 @@
 		<item name="wbb.acp.feedPoster.url.list.type.rdf"><![CDATA[RDF-Feed]]></item>
 		<item name="wbb.acp.feedPoster.url.list.type.atom"><![CDATA[Atom-Feed]]></item>
 		<item name="wbb.acp.feedPoster.url.list.name"><![CDATA[Feed Poster]]></item>
-		<item name="wbb.acp.feedPoster.url.list.delete.sure"><![CDATA[Are you shure to delete this URL?]]></item>
-		<item name="wbb.acp.feedPoster.url.list.delete.success"><![CDATA[The URL was deleted successfully.]]></item>
-		<item name="wbb.acp.feedPoster.url.list.edit"><![CDATA[Edit URL]]></item>
-		<item name="wbb.acp.feedPoster.url.list.delete"><![CDATA[Delete URL]]></item>
+		<item name="wbb.acp.feedPoster.url.list.delete.sure"><![CDATA[Czy na pewno chcesz usunąć ten adres URL?]]></item>
+		<item name="wbb.acp.feedPoster.url.list.delete.success"><![CDATA[Adres URL został pomyślnie usunity.]]></item>
+		<item name="wbb.acp.feedPoster.url.list.edit"><![CDATA[Edytuj URL]]></item>
+		<item name="wbb.acp.feedPoster.url.list.delete"><![CDATA[Usuń URL]]></item>
 
-		<item name="wbb.acp.feedPoster.url.form.general"><![CDATA[General]]></item>
+		<item name="wbb.acp.feedPoster.url.form.general"><![CDATA[Główne]]></item>
 		<item name="wbb.acp.feedPoster.url.form.url"><![CDATA[URL]]></item>
 		<item name="wbb.acp.feedPoster.url.form.url.description"><![CDATA[Please enter the URL of the RSS Feeds.]]></item>
 		<item name="wbb.acp.feedPoster.url.form.fpID"><![CDATA[Feed Poster]]></item>
@@ -118,12 +118,12 @@
 		<item name="wbb.acp.feedPoster.url.form.searchTags"><![CDATA[Search-Tags]]></item>
 		<item name="wbb.acp.feedPoster.url.form.searchTags.description"><![CDATA[Please enter a Search-Tag. It will be created only topics containung that word. Separate multiple search words with commas.]]></item>
 		<item name="wbb.acp.feedPoster.url.form.noItem"><![CDATA[There are no Feed Poster available. <a href="index.php?form=FeedPosterAdd&amp;packageID={@PACKAGE_ID}{@SID_ARG_2ND}">Add Feed Poster</a>]]></item>
-		<item name="wbb.acp.feedPoster.url.add.success"><![CDATA[The URL was created successfully.]]></item>
-		<item name="wbb.acp.feedPoster.url.edit.success"><![CDATA[The URL was updated successfully.]]></item>
+		<item name="wbb.acp.feedPoster.url.add.success"><![CDATA[Adres URL został pomyślnie utworzony.]]></item>
+		<item name="wbb.acp.feedPoster.url.edit.success"><![CDATA[Adres URL został pomyślnie zaktualizowany.]]></item>
 		<item name="wbb.acp.feedPoster.url.form.alreadyExists"><![CDATA[The Feed Poster is already associated with this URL.]]></item>
 		<item name="wbb.acp.feedPoster.url.form.invalidFeed"><![CDATA[The given Feed isn't valid.]]></item>
 		<item name="wbb.acp.feedPoster.url.form.invalidFeed.extended"><![CDATA[The given Feed looks broken. Continue anyway?]]></item>
-		<item name="wbb.acp.feedPoster.url.form.invalidFeed.add"><![CDATA[Continue]]></item>
+		<item name="wbb.acp.feedPoster.url.form.invalidFeed.add"><![CDATA[Kontynuuj]]></item>
 	</category>
 	<!-- ACP Feed Poster -->
 
