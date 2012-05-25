@@ -113,13 +113,13 @@
 		<item name="wbb.acp.feedPoster.url.form.url"><![CDATA[URL]]></item>
 		<item name="wbb.acp.feedPoster.url.form.url.description"><![CDATA[Prosz podać adres URL do RSS.]]></item>
 		<item name="wbb.acp.feedPoster.url.form.fpID"><![CDATA[Kanał RSS]]></item>
-		<item name="wbb.acp.feedPoster.url.form.fpID.description"><![CDATA[Please choose the Feed Poster where the URL will be assignt to.]]></item>
+		<item name="wbb.acp.feedPoster.url.form.fpID.description"><![CDATA[Prosz wybrać gdzie kanał ma być przypisany.]]></item>
 		<item name="wbb.acp.feedPoster.url.form.searchTags"><![CDATA[Search-Tags]]></item>
-		<item name="wbb.acp.feedPoster.url.form.searchTags.description"><![CDATA[Please enter a Search-Tag. It will be created only topics containung that word. Separate multiple search words with commas.]]></item>
+		<item name="wbb.acp.feedPoster.url.form.searchTags.description"><![CDATA[Prosz podać Search-Tag. It will be created only topics containung that word. Separate multiple search words with commas.]]></item>
 		<item name="wbb.acp.feedPoster.url.form.noItem"><![CDATA[Obecnie nie ma dostępnego kanału RSS. <a href="index.php?form=FeedPosterAdd&amp;packageID={@PACKAGE_ID}{@SID_ARG_2ND}">Dodaj kanał RSS</a>]]></item>
 		<item name="wbb.acp.feedPoster.url.add.success"><![CDATA[Adres URL został pomyślnie utworzony.]]></item>
 		<item name="wbb.acp.feedPoster.url.edit.success"><![CDATA[Adres URL został pomyślnie zaktualizowany.]]></item>
-		<item name="wbb.acp.feedPoster.url.form.alreadyExists"><![CDATA[The Feed Poster is already associated with this URL.]]></item>
+		<item name="wbb.acp.feedPoster.url.form.alreadyExists"><![CDATA[Inny kanał RSS korzysta już z tego adresu URL.]]></item>
 		<item name="wbb.acp.feedPoster.url.form.invalidFeed"><![CDATA[Podany kanał RSS jest nieprawidłowy.]]></item>
 		<item name="wbb.acp.feedPoster.url.form.invalidFeed.extended"><![CDATA[Podany kanał jest nieprawidłowy. Kontynuować?]]></item>
 		<item name="wbb.acp.feedPoster.url.form.invalidFeed.add"><![CDATA[Kontynuuj]]></item>
@@ -128,9 +128,9 @@
 
 	<!-- FeedPoster -->
 	<category name="wbb.feedPoster">
-		<item name="wbb.feedPoster.more"><![CDATA[Source]]></item>
+		<item name="wbb.feedPoster.more"><![CDATA[Źródło]]></item>
 		<item name="wbb.feedPoster.copyright"><![CDATA[Feed Poster 1.2.3, developed by Simon Dettling]]></item>
-		<item name="wbb.feedPoster.quote.title"><![CDATA[Nachricht von &quot;{$quoteAuthor}&quot;]]></item>
+		<item name="wbb.feedPoster.quote.title"><![CDATA[Aktualności &quot;{$quoteAuthor}&quot;]]></item>
 	</category>
 	<!-- FeedPoster -->
 </language>
