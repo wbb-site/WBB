@@ -7,4 +7,4 @@ Jak zainstalować spolszczenie do FeedPoster
 
 Spolszczenie działa tylko w Burning Board 3.x wzwyż.
 
-///////////////////////////////////////// WBB-SITE.PL - POLSKI SUPPORT BURNING BOARD \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+///////////////////////////////////////// WBB-SITE.PL - POLSKI SUPPORT BURNING BOARD \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
